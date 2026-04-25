@@ -302,7 +302,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Documentation**: [Wiki](https://github.com/mahfoozalamcse/research-ai/wiki)
 - **Issues**: [GitHub Issues](https://github.com/mahfoozalamcse/research-ai/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/mahfoozalamcse/research-ai/discussions)
-- **Email**: mahfoozalamcse@gmail.com
+- **Email**: mahfoozalam1070@gmail.com
 
 ## 🙏 Acknowledgments
 
